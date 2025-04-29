@@ -1,0 +1,21 @@
+# Web frameworks
+flask
+fastapi==0.110.2
+uvicorn==0.29.0
+
+# Data handling
+numpy==1.24.4
+pandas==2.0.3
+
+# Deep learning
+torch==2.1.2
+
+# NLP and Transformers
+transformers==4.40.0
+
+# Text cleaning
+contractions==0.1.73
+
+# For Pydantic models (FastAPI)
+pydantic
+
